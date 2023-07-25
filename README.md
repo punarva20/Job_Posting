@@ -28,7 +28,9 @@ It covers most of the skills required for Data Analyst
     Good understanding of marketing metrics such as ROAS, CAC, CLV. Ability to define company specific metrics and to question status quo 
     whenever necessary
 
-    It has some new marketing terms.
+    It has new marketing terms and almost aligns with the skills.
+
+    
 
 3.  **Data Analyst**
 
