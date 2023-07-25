@@ -44,5 +44,24 @@ It covers most of the skills required for Data Analyst
     You like to collaborate with your colleagues.
 
     It aligns with the skills.
+
+ 4.   **System Test Engineer & Data Analyst (m/f/d) Research & Development**
+    Experience: 5 years
+    Skills:
+    Excellent programming skills in an object-oriented programming language, ideally C# .NET
+    Aptitude for test automation, electronics, electrical measurement equipment
+    Very good English skills, both written and spoken
+
+5.**Data Analyst / Consultant (m/w/d) Real World Insights – Pharma & Healthcare**
+
+   Experience : 5 years
+  Skills:
+    Bachelors’ degree (University, FH) in software engineering, physics, electrical engineering, or a related field
+    Outstanding knowledge in data analysis with Python or Matlab
+    Excellent programming skills in an object-oriented programming language, ideally C# .NET
+    Aptitude for test automation, electronics, electrical measurement equipment
+    Very good English skills, both written and spoken
+
+
    
     
