@@ -1,6 +1,6 @@
 ## Job_Posting
 
-###Data Analyst Postion
+### Data Analyst Postion
 
 1.**Data Analyst- Pricing & Commmercial**
    
